@@ -107,3 +107,5 @@ for i, (clf_name, clf) in enumerate(classifiers.items()):
 
     # Run classification metrics
     print(f'{clf_name}:{n_errors}')
+    print(accuracy_score(Y, y_pred))
+    print(classification_report(Y, y_pred))
