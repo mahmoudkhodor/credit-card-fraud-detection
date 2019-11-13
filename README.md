@@ -19,6 +19,6 @@ We used the below machine learning model to detect the anomly:
 - Local Outlier Factor
 - Isolation Forest
 
-![Recipes](readmeimages/2.png)
+![](readmeimages/2.png)
 
-![Recipes](readmeimages/1.png)
+![](readmeimages/1.png)
